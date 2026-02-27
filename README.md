@@ -177,7 +177,7 @@ Estamos comprometidos en proporcionar una experiencia libre de acoso para todos,
 
 ---
 
-## �📄 Licencia
+## 📄 Licencia
 
 Este repositorio está bajo la licencia especificada en [LICENSE](LICENSE).
 
