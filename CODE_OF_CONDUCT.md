@@ -14,7 +14,7 @@
 
 ## 🌍 Sobre AgentCamp 2026
 
-AgentCamp 2026 Valencia (anteriormente Global AI Bootcamp) es parte de la [Global AI Community](https://globalai.community/), un movimiento mundial que reúne simultáneamente a **177 comunidades** en **71 países**. En Valencia, este evento **100% gratuito** es organizado por tres **Microsoft MVPs** y un experto en soluciones Microsoft.
+AgentCamp 2026 Valencia (anteriormente Global AI Bootcamp) es parte de la [Global AI Community](https://globalai.community/), un movimiento mundial que reúne a **177 comunidades** en **71 países**. En Valencia, este evento **100% gratuito** es organizado por tres **Microsoft MVPs** y un experto en soluciones Microsoft.
 
 ### 📅 Fechas y Ubicaciones
 
