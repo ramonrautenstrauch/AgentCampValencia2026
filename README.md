@@ -58,8 +58,9 @@ Este repositorio contiene **todo el material compartido** con speakers, sponsors
 ```
 AgentCampValencia2026/
 │
-├── 📸 speakers/          # Banners de todas las sesiones (12 sesiones)
+├── 📸 speakers/          # Banners de todas las sesiones
 │   └── README.md         # Documentación de banners por sesión
+│   └── banners alternativos # Versión alternativa de los banners de todas las sesiones 
 │
 ├── 🎨 branding/          # Material gráfico y de marca del evento
 │   └── README.md         # Assets promocionales y directrices de uso
