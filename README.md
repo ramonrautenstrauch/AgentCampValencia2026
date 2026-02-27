@@ -60,7 +60,7 @@ AgentCampValencia2026/
 │
 ├── 📸 speakers/          # Banners de todas las sesiones
 │   └── README.md         # Documentación de banners por sesión
-│   └── banners alternativos # Versión alternativa de los banners de todas las sesiones 
+│   └── /banners alternativos # Versión alternativa de los banners de todas las sesiones 
 │
 ├── 🎨 branding/          # Material gráfico y de marca del evento
 │   └── README.md         # Assets promocionales y directrices de uso
@@ -68,8 +68,6 @@ AgentCampValencia2026/
 ├── 📊 templates/         # Plantillas oficiales para presentaciones
 │   ├── AgentCamp Valencia 2026.pptx
 │   └── README.md         # Guía de uso para speakers
-│
-├── 🤝 sponsors/          # Información y materiales de patrocinadores
 │
 ├── 📋 CODE_OF_CONDUCT.md # Código de conducta del evento
 ├── 📜 LICENSE            # Licencia del repositorio
