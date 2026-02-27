@@ -8,8 +8,7 @@ El AgentCamp Valencia 2026 es el evento de referencia sobre Agentes de IA, Model
 
 ### 🌐 Más Información
 
-- **Website oficial**: [https://www.globalai.es](https://www.globalai.es)
-- **Sitio web del evento en Valencia**: [https://www.agentcampvalencia.es](https://www.agentcampvalencia.es)
+- **Website oficial**: [https://www.agentcampvalencia.es](https://www.agentcampvalencia.es)
 
 ## 📁 Plantillas Disponibles
 
