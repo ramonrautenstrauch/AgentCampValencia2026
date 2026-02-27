@@ -56,7 +56,7 @@ Este repositorio contiene **todo el material compartido** con speakers, sponsors
 ### 🗂️ Estructura del Repositorio
 
 ```
-agentcamp-madrid-2026/
+AgentCampValencia2026/
 │
 ├── 📸 speakers/          # Banners de todas las sesiones (12 sesiones)
 │   └── README.md         # Documentación de banners por sesión
