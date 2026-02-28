@@ -170,8 +170,8 @@ Como comunidad de Inteligencia Artificial, reconocemos:
 ### Contacto y Soporte
 
 - 🌐 **Website**: [Website AgentCamp Valencia](https://www.agentcampvalencia.es/)
-- 📧 **Email general**: [info@globalai.es](mailto:info@globalai.es)
-- 🛡️ **Conducta**: [info@globalai.es](mailto:info@globalai.es)
+- 📧 **Email general**: [info@agentcampvalencia.es](mailto:info@agentcampvalencia.es)
+- 🛡️ **Conducta**: [info@agentcampvalencia.es](mailto:info@agentcampvalencia.es)
 
 ### Comunidad Global
 
